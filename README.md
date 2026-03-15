@@ -19,6 +19,8 @@ I work with real-world datasets to uncover patterns, test hypotheses, and transl
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pingouin](https://img.shields.io/badge/Pingouin-4C72B0?style=flat&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 ---
 
@@ -55,6 +57,7 @@ I work with real-world datasets to uncover patterns, test hypotheses, and transl
 
 | Project | Description | Tools |
 |---|---|---|
+| [🥃 Iowa Alcohol Retail](https://github.com/jekaterinagainullina/iowa_alcohol_retail)| Interactive dashboard analyzing $1.32B retail sales (2023–2025). Pareto analysis, time intelligence, star schema | Power BI · BigQuery · SQL · DAX |
 | [🐾 Austin Animal Shelter](https://github.com/jekaterinagainullina/austin-animal-center) | Statistical analysis of 170k+ shelter records (2013–2025). Chi-square, Mann-Whitney, partial correlation | Python · scipy · pingouin · matplotlib |
 | [🛒 Olist E-Commerce](https://github.com/jekaterinagainullina/olist-ecommerce-analysis) | Retention vs. Acquisition strategy. Cohort analysis, RFM segmentation, seller Pareto analysis | Python · SQL · matplotlib |
 | [🏠 Airbnb Europe](https://github.com/jekaterinagainullina/airbnb-europe-investment-analysis) | Investment opportunity analysis across 9 European cities, 41,700+ listings | Excel |
